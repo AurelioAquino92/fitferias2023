@@ -1,0 +1,4 @@
+opencv-python
+Flask
+Flask-Cors
+Flask-RESTful
